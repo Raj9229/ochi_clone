@@ -1,7 +1,5 @@
 # Ochi Design Clone
 
-![Ochi Design Website Clone](https://i.imgur.com/XYrEZb8.png)
-
 A modern, interactive clone of the Ochi Design website built with React, Framer Motion, and Locomotive Scroll.
 
 ## 🔗 Live Demo
